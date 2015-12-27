@@ -1,1 +1,1 @@
-This repository contains different data structures implemented in C
+This repository contains different data structures and algorithms implemented in C
